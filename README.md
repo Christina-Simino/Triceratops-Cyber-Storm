@@ -7,7 +7,7 @@ To use this repository using gitbash commands:
 
 Make a folder where you want the code saved on your computer.  Git bash from there
 
-$ git clone "repository url"  // e.g. https://github.com/username.....
+$ git clone "https://github.com/Kynlenara/Triceratops-Cyber-Storm"
 
 It should now be in your folder.
 
